@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/domib/static/css/main.999d4ac2.css",
+    "main.js": "/domib/static/js/main.efcff056.js",
+    "static/js/453.5fd86356.chunk.js": "/domib/static/js/453.5fd86356.chunk.js",
+    "static/media/slide7.jpg": "/domib/static/media/slide7.cdd95255e41083b85734.jpg",
+    "static/media/slide3.jpg": "/domib/static/media/slide3.5830fb680243a01b3828.jpg",
+    "static/media/slide5.jpg": "/domib/static/media/slide5.0e5f45e5e47ad5dcdbf8.jpg",
+    "static/media/slide11.jpg": "/domib/static/media/slide11.18a89bd7f64de966b64f.jpg",
+    "static/media/slide2.jpg": "/domib/static/media/slide2.d3f83a187416d900af80.jpg",
+    "static/media/slide8.jpg": "/domib/static/media/slide8.1d309ce347ddd11f93e5.jpg",
+    "static/media/slide6.jpg": "/domib/static/media/slide6.d405ab1608eca09d02c6.jpg",
+    "static/media/slide9.jpg": "/domib/static/media/slide9.30f1c55445e6cdac09db.jpg",
+    "static/media/slide10.jpg": "/domib/static/media/slide10.a2a011855702ea9c0f36.jpg",
+    "static/media/careers.png": "/domib/static/media/careers.ce2cfaa5094d968ba429.png",
+    "static/media/Contactus.png": "/domib/static/media/Contactus.28fa100373cade5e2438.png",
+    "static/media/Portal.png": "/domib/static/media/Portal.154c23be35da32b852bd.png",
+    "static/media/logo.png": "/domib/static/media/logo.9925cf4c6efe3c529ab1.png",
+    "static/media/faq.png": "/domib/static/media/faq.2d909ed9eb685179ce0b.png",
+    "static/media/Aboutus.png": "/domib/static/media/Aboutus.26f7dae210d067609767.png",
+    "static/media/servicelogo.png": "/domib/static/media/servicelogo.3f877dfebb699c606b79.png",
+    "static/media/slide4.jpg": "/domib/static/media/slide4.b9edb0d61e17afaabb96.jpg",
+    "static/media/Team.jpg": "/domib/static/media/Team.81b2bd0e3abfc3f7e68c.jpg",
+    "index.html": "/domib/index.html",
+    "main.999d4ac2.css.map": "/domib/static/css/main.999d4ac2.css.map",
+    "main.efcff056.js.map": "/domib/static/js/main.efcff056.js.map",
+    "453.5fd86356.chunk.js.map": "/domib/static/js/453.5fd86356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999d4ac2.css",
+    "static/js/main.efcff056.js"
+  ]
+}
